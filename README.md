@@ -1,2 +1,2 @@
 # Earth_Science_Informatics
- 
+This work is related to the discharge modeling using different machine learning approach. The title of this work is "Synergistic approach for streamflow forecasting in a glacierized catchment of the western Himalaya using earth observation and machine learning techniques." Please find the more details about the article at the provided link: https://link.springer.com/article/10.1007/s12145-024-01322-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240513&utm_content=10.1007/s12145-024-01322-6
